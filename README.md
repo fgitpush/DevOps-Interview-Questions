@@ -64,7 +64,7 @@
 |56 | [PaaS Concept](#what-is-singelton-design-pattern) |
 |57 | [how to write custom modules in Ansible ](#what-is-reverse-routing) | 
 |58 | [What have I done in Nagios](#what-are-Popular-composer-packages) |
-|59 | [How to set up custom plugin in Nagios])](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
+|59 | [How to set up custom plugin in Nagios](#how-to-get-the-data-from-more-than-3-table-without-using-a-join) |
 |60 | [Difference between Cloud Foundry and Kubernetes ](#list-some-artisan-commands) |
 |61 | [Difference between Tomcat and Nginx](#what-are-sessions) |
 |62 | [Basic Linux questions](#what-are-cookies) |
