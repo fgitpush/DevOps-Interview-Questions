@@ -34,7 +34,7 @@
 |26 | [How to get the data stored on a EC2 who's SSH key is lost?](#what-are-payments-and-cashier) |
 |27 | [Splunk](#what-is-test-driven-development) |
 |28 | [Configuration Management Tool](#what-is-package-development) |
-|29 | [Condition playbook for ansible ? If any package in not installed or user is already created?] (#at-are-laravel-scout-search-and-algolia) |
+|29 | [Condition playbook for ansible ? If any package in not installed or user is already created?](#at-are-laravel-scout-search-and-algolia) |
 |30 | [What is a docker container?](#what-is-socialite-auth) |
 |31 | [How will your OS differentiate between a containerized application and an on-prem application](#hat-is-vue-js) |
 |32 | [Do you need a docker engine to create a container?](#How-to-connect-Laravel-with-other-SQL-databases) |
