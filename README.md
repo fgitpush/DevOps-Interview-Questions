@@ -6,7 +6,7 @@
 
 | No. | Questions |
 | --- | --------- |
-|1  | [What is linux?](#What-is-WordPress) |
+|1  | [Setup Linux server?](#What-is-WordPress) |
 |2  | [What is Git?](#Which-year-was-WordPress-released) |
 |3  | [What is Puppet?](#What-are-minimum-requirements-to-run-WordPress) |
 |4  | [What is Chef?](#what-are-Default-ports-for-MySQL-Email-etc) |
@@ -77,7 +77,7 @@
 
 
  
-1. ### Write Efficient data structure for a particular query
+1. ### Setup Linux server?
 
     Its an opensource PHP framework used for CMS, website creation and ecommerce.
 
